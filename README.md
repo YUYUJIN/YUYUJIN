@@ -7,7 +7,7 @@
 
 #### <p align="center">Stack ⚡</p>
 ##### <p align="center">using as main 😄</p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=PYTHON&logoColor=White">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=White">
 
 ##### <p align="center">used 🤔</p>
 
