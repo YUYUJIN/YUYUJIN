@@ -8,6 +8,11 @@
 #### <p align="center">Stack ⚡</p>
 ##### <p align="center">using as main 😄</p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+<img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1B?style=for-the-badge&logo=mysql&logoColor=white">
 
 ##### <p align="center">used 🤔</p>
 
