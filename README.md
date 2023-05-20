@@ -27,6 +27,11 @@
   <img src="https://img.shields.io/badge/microsoftazure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
 </p>
 
+<br/> <br/> <br/> <br/> <br/> <br/> 
+
+#### <p align="center">email 💬</p>
+##### <p align="center">wlsyou98@gmail.com</p>
+
 <br/> <br/> <br/> 
 
 <!--
