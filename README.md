@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?height=200&text=Always%20the%20same&desc=Yujin's%20github&type=rounded&fontSize=45&color=50bcdf&fontColor=000000&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?height=200&text=As%20always&desc=Yujin's%20github&type=waving&fontSize=45&color=50bcdf&fontColor=000000&descAlignY=50&fontAlignY=25)
 
 ### Hi there 👋
 
