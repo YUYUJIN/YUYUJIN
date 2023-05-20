@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?height=200&text=As%20always&desc=Yujin's%20github&type=waving&fontSize=45&color=50bcdf&fontColor=000000&descAlignY=50&fontAlignY=25)
+![header](https://capsule-render.vercel.app/api?height=200&text=As%20always&desc=Yujin's%20github&type=waving&fontSize=45&color=50bcdf&fontColor=000000&descAlignY=45&fontAlignY=25)
+##### <p align="center">안녕하세요 👋</p>
 
-### Hi there 👋
 
 <!--
 **YUYUJIN/YUYUJIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
